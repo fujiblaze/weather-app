@@ -49,7 +49,7 @@ src/
 
 ## 🌐 API
 
-This app uses a weather API (e.g., OpenWeatherMap or similar) to fetch current weather data. Make sure to add your API key in a `.env` file:
+This app uses a weather API (OpenWeatherMap) to fetch current weather data. Make sure to add your API key in a `.env` file:
 
 ```env
 VITE_WEATHER_API_KEY=your_api_key_here
